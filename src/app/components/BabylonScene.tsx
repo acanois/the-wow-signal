@@ -43,7 +43,7 @@ const onSceneReady = (scene: Scene) => {
       new Vector3(-3, 3, 0), // position
       new Vector3(0.01, 0.01, 0.0), // velocity
       new Vector3(0.0, 0.0, 0.0), // acceleration
-      1.0,
+      1.4,
       1.0,
       scene
     )
@@ -55,7 +55,7 @@ const onSceneReady = (scene: Scene) => {
       new Vector3(-3, -3, 0), // position
       new Vector3(-0.01, 0.01, 0.0), // velocity
       new Vector3(0.0, 0.0, 0.0), // acceleration
-      1.0,
+      1.4,
       1.0,
       scene
     )
@@ -67,7 +67,7 @@ const onSceneReady = (scene: Scene) => {
       new Vector3(3, -3, 0), // position
       new Vector3(-0.01, -0.01, 0.0), // velocity
       new Vector3(0.0, 0.0, 0.0), // acceleration
-      1.0,
+      1.5,
       1.0,
       scene
     )
